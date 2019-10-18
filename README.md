@@ -5,7 +5,8 @@
 2. 未来会从源库进行更新；
 3. 新增加的图标来自 www.iconfont.cn；
 4. 另一些改自网站/App自身图标
-5. 感谢
+5. 最新资讯可关注 https://t.me/limboprossr 频道；
+6. 感谢
 
 以上。
 # Zure<br>
