@@ -19,8 +19,8 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 使用说明
 ### 方式一：远程图标(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
 该操作以Quantumult X v1.0.0-build103为例<br>
-1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**([效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88))<br>
-2.在Quantumult X的“配置文件-编辑”中找到[policy]中找到策略组，并在该策略组的最后一个节点后方加上<br>
+1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**（[效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)，不含归档图标）<br>
+2.在Quantumult X的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上<br>
 img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名称.png<br>
 (例：<span>static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
 注意：此处的“Hong_Kong.png”**图标名称**中的下划短横线和字母大小写)<br>
@@ -38,6 +38,13 @@ img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名�
 
  
 ## 更新日志
+2019-10-21<br>
+v1.7.4<br>
+1.归档图标：Dler.png、MAYING.png、Nexitally.png、N3RO.png、rix.png、YoYu.png、Taiwan.png、Netease_Music_Unlock.png<br>
+2.调优图标：Direct.png、Proxy.png、Reject.png、Round_Robin.png<br>
+3.新增图标：Netease_Music_Unlock.png、India.png、Turkey.png<br>
+*归档图标：图标不在预览图中展示，但仍支持订阅；*<br>
+
 2019-10-13<br>
 v1.7.3<br>
 1.图标上新：Netease_Music.png<br>
@@ -121,11 +128,13 @@ v1.1.0<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
 
-## 免责声明
-Zure项目内所涉及图标、LOGO仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性。<br>
-遵循避风港原则，若有图片和内容侵权，请在Issues告知，核实后删除，其版权均归原作者及其网站所有。<br>
-本人不对任何内容承担任何责任，包括但不限于任何内容错误导致的任何损失、损害。<br>
-其它人通过任何方式登陆本网站或直接、间接使用Zure项目相关资源，均应仔细阅读本声明，一旦使用Zure项目任何相关教程或资源，即被视为您已接受此免责声明。<br>
+## 免责声明与补充说明
+1.Zure项目内所涉及图标、LOGO仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性。<br>
+2.遵循避风港原则，若有图片和内容侵权，请在Issues告知，核实后删除，其版权均归原作者及其网站所有。<br>
+3.本人不对任何内容承担任何责任，包括但不限于任何内容错误导致的任何损失、损害。<br>
+4.其它人通过任何方式登陆本网站或直接、间接使用Zure项目相关资源，均应仔细阅读本声明，一旦使用、转载Zure项目任何相关教程或资源，即被视为您已接受此免责声明。<br>
+5.需要新增策略图标，请在Telegram、Issues（GitHub内）中说明图标名称并附上相关图标资源链接。<br>
+6.转载请注明出处，谢谢！<br>
 
 ## 效果图预览
 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure_Preview.png)
